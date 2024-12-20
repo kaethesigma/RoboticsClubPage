@@ -1,0 +1,32 @@
+body {
+    background-image: url('bg.jpg');
+    background-size: cover;
+    color:rgba(247, 233, 237, 0.178);
+}
+.container {
+    background-color: rgba(74, 108, 167, 0.453);
+    padding: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    color: white;
+
+}
+.btn {
+    background-color: rgba(78, 183, 240, 0.451);
+}
+img {
+    width: 100%;
+     height: auto; 
+     max-height: 300px;
+     object-fit: cover;
+     border-radius: 10px;
+}
+footer {
+    text-align: center; 
+    margin: 10px 0;
+    color: aliceblue;
+    background-color: rgba(4, 4, 53, 0.319);
+}
+.logo {
+    width:auto;
+    height: 30px;
+}
